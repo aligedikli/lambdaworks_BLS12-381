@@ -40,9 +40,6 @@ Upon running, the program will generate and print a BLS12-381 public key based o
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or improvements.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
