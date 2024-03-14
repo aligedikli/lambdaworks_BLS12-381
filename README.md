@@ -1,6 +1,6 @@
-# BLS12-381 Key Generation in Rust
+# BLS12-381 Lambdaclass Rust Implementation
 
-This Rust project demonstrates generating a BLS12-381 public key from a given secret key using the `blst` crate. The program takes a secret key, generates the corresponding public key, and outputs it in hexadecimal format.
+This piece of software uses lambdaworks to compute the public key associated with the secret key 0x6C616D6264617370 with the BLS12-381 elliptic curve
 
 ## Prerequisites
 
